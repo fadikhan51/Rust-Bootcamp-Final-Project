@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <body>
 <h1>Welcome to RustyStore Manager</h1>
-<img src="mascot.webp" alt="RustyStore Mascot">
+<img src="mascot.webp" alt="RustyStore Mascot" style = "width = 200px; height:auto;">
 
 <h2>About Me</h2>
 <p>🚀 <strong>Hello World!</strong> I am a code whisperer, a digital alchemist, and a tech enthusiast on a mission to craft extraordinary web and app experiences. With a keyboard as my wand and lines of code as my spells, I weave magic into pixels and bring ideas to life in the digital realm.</p>
